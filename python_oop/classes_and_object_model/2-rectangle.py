@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This module defines a Rectangle class with area and perimeter calculations."""
+"""This module defines a Rectangle class with area/perimeter calculations."""
 
 
 class Rectangle:
