@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This module defines a Square class with size, position, and string formatting."""
+"""This module defines a Square class with size/position/string formatting."""
 
 
 class Square:
